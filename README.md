@@ -1,4 +1,4 @@
-## Trip Tailor: Personalized Travel Planning with Python
+## Trip Tailor: Personalized Travel Planning
 
 **Trip Tailor** empowers you to create customized and unforgettable travel itineraries! This project builds a web application where you can:
 
