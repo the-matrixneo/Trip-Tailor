@@ -12,8 +12,8 @@ This project aims to develop a user-friendly travel planning platform that lever
 
 **Tech Stack:**
 
-* **Frontend:** Choose from React, Vue.js, or your preferred framework. (Not included in this repository)
-* **Backend:** Flask or FastAPI (Backend API development)
+* **Frontend:** HTML,CSS, Bootstrap
+* **Backend:** Django or FastAPI (Backend API development)
 * **Database:** PostgreSQL or MongoDB (Data storage)
 * **Data Science & ML:** NumPy, Pandas, Scikit-learn (Optional: Recommendation engine, user behavior analysis)
 * **Mapping:** Google Maps API or OpenStreetMap (Location services)
