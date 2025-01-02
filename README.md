@@ -184,7 +184,7 @@ Your contributions will make this project even better. Thank you! 🙌
   <h2>📄 License</h2>
 </div> 
 
-<p align="center">This project is licensed under the **MIT License**.  For more details, please refer to the [LICENSE.md](LICENSE.md) file.</p>
+This project is licensed under the **MIT License**.  For more details, please refer to the [LICENSE.md](LICENSE.md) file.
 
 
 ---
