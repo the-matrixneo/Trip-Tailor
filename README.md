@@ -31,6 +31,8 @@
 
 <br>
 
+## For contributors - [Annocement Page](https://knowing-giant-e68.notion.site/Announcement-Page-for-Contributors-Trip-Tailor-16fa60654bb48033adc0d5082c0f492b)
+
 ### This project is now OFFICIALLY accepted for
 
 <div align="center">
@@ -40,6 +42,8 @@
 <br>
 
 ---
+
+
 
 <div align="center">
   <h2>🚀 Features  </h2>
