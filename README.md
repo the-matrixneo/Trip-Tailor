@@ -160,7 +160,7 @@ Your contributions will make this project even better. Thank you! 🙌
  
 <table>
 <tr>
-<td align="center"><a href="https://github.com/sanchitc05"><img src="https://media.licdn.com/dms/image/v2/D5603AQGrktj5VsCkfQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719914654361?e=1741219200&v=beta&t=HCdjvBa9zS-A2jT970blxJDQtgz7dNmMd7NqJzoC_sk" width=100px height=100px /><h5 style="color:red;">Sanchit</h5></a>
+<td align="center"><a href="https://github.com/sanchitc05"><img src="https://avatars.githubusercontent.com/u/150342364?v=4" width=100px height=100px /><h5 style="color:red;">Sanchit</h5></a>
 </td>
 <td align="center"><a href="https://github.com/iarmaanx"><img src="https://media.licdn.com/dms/image/v2/D5603AQGrktj5VsCkfQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719914654361?e=1741219200&v=beta&t=HCdjvBa9zS-A2jT970blxJDQtgz7dNmMd7NqJzoC_sk" width=100px height=100px /><h5 style="color:red;">Armaan</h5></a>
 </td>
