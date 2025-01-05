@@ -1,12 +1,14 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./Frontend/styles.css">
+    <link rel="stylesheet" href="{% static 'styles.css'%}">
     <title>Trip Tailor</title>
 </head>
 <body>
+
 <!-- Navbar -->
 <nav class="navbar">
     <div class="navbar-logo">Travel Tailor</div>
@@ -19,6 +21,9 @@
           
     </ul>
 </nav>
+
+
+<!-- From here you need to implement it-->
 
 <!-- Hero Section -->
 <section class="hero">
@@ -75,12 +80,12 @@
     </div>
 </section>
 
+<!-- At this Point -->
+ 
 <!-- Footer -->
 <footer class="footer">
     <p>&copy; 2025 Trip Tailor. All rights reserved.</p>
-    <p>Making Chnages</p>
 </footer>
-
 <script>
     document.querySelectorAll('.faq-question').forEach(question => {
         question.addEventListener('click', () => {
