@@ -1,0 +1,100 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'styles.css'%}">
+    <title>Trip Tailor</title>
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar">
+    <div class="navbar-logo">Travel Tailor</div>
+    <ul class="navbar-links">
+        <li><a href="contributors/contributor.html" class="nav-link">Contributors</a></li> 
+        <li><a href="#features" class="navbar-link">Features</a></li>
+        <li><a href="#faq" class="navbar-link">FAQs</a></li>
+        <li><a href="#contact" class="navbar-link">Contact</a></li>
+       
+          
+    </ul>
+</nav>
+
+
+<!-- From here you need to implement it-->
+
+<!-- Hero Section -->
+<section class="hero">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+        <h1>Your Journey Starts Here</h1>
+        <p class="hero-subtext"><b>Find the best travel options tailored for you</b></p>
+        <button class="cta-button">Start Planning</button>
+    </div>
+</section>
+
+<section class="features" id="features">
+    <div class="feature-card">
+        <div class="feature-icon">🗺️</div>
+        <div class="feature-title">Route Comparison</div>
+        <p class="feature-description">Compare travel routes to choose the best path.</p>
+    </div>
+    <div class="feature-card">
+        <div class="feature-icon">📊</div>
+        <div class="feature-title">Expense Calculator</div>
+        <p class="feature-description">Estimate and compare travel costs to budget smarter.</p>
+    </div>
+    <div class="feature-card">
+        <div class="feature-icon">🏨</div>
+        <div class="feature-title">Accommodation Finder</div>
+        <p class="feature-description">Find stays that fit your preferences and budget.</p>
+    </div>
+    <div class="feature-card">
+        <div class="feature-icon">✈️</div>
+        <div class="feature-title">Multi-Mode Booking</div>
+        <p class="feature-description">Easily book tickets across multiple travel modes.</p>
+    </div>
+</section>
+
+<section class="faq" id="faq">
+    <h2>Frequently Asked Questions</h2>
+    <div class="faq-item">
+        <div class="faq-question">
+            How does Trip Tailor work?
+            <span class="faq-icon">+</span>
+        </div>
+        <div class="faq-answer">
+            We provide personalized travel options, comparing routes, expenses, and accommodations tailored to your preferences.
+        </div>
+    </div>
+    <div class="faq-item">
+        <div class="faq-question">
+            Is it free to use?
+            <span class="faq-icon">+</span>
+        </div>
+        <div class="faq-answer">
+            Yes, our basic features are completely free. We also offer premium plans for advanced options.
+        </div>
+    </div>
+</section>
+
+<!-- At this Point -->
+ 
+<!-- Footer -->
+<footer class="footer">
+    <p>&copy; 2025 Trip Tailor. All rights reserved.</p>
+</footer>
+<script>
+    document.querySelectorAll('.faq-question').forEach(question => {
+        question.addEventListener('click', () => {
+            const faqItem = question.parentElement;
+            faqItem.classList.toggle('open');
+        });
+    });
+</script>
+<script> window.chtlConfig = { chatbotId: "5766754121" } </script>
+<script async data-id="5766754121" id="chatling-embed-script" type="text/javascript" src="https://chatling.ai/js/embed.js"></script>
+</body>
+</html>
