@@ -128,7 +128,7 @@
     ```
 5. **Configure the backend:**
    
-   ⚙️ Set up your preferred backend framework (e.g., Flask, Django) and configure the database connection settings.
+   ⚙️ Set up your preferred backend framework (e.g., Django) and configure the database connection settings.
 
 6. **(Optional) Add personalization features:**
    
