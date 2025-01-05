@@ -170,22 +170,6 @@ Your contributions will make this project even better. Thank you! 🙌
 
 ---
 
-<div>
-  <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Our Contributors</h2>
-  <div align="center">
-    <h3>Thank you for contributing to our project</h3
-
-<a href="https://github.com/sanchitc05/Trip-Tailor/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sanchitc05/Trip-Tailor&max=300" />
-</a>
-    
-
-
-  </div>
-</div>
-
----
-
 <div align="center">
   <h2>📄 License</h2>
 </div> 
