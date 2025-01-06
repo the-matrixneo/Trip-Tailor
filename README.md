@@ -77,7 +77,7 @@
 <table align="center">
 	<tr>
 	<td><strong>Frontend</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,bootstrap"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css"></td>
 </tr>
 
 <tr>
