@@ -10,6 +10,11 @@
 <!-- Navbar -->
 <nav class="navbar">
     <div class="navbar-logo">Trip Tailor</div>
+    <div class="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
     <ul class="navbar-links">
         <li><a href="../index.html" class="navbar-link">Home</a></li> 
         <li><a href="../index.html" class="navbar-link">Features</a></li>
@@ -86,6 +91,12 @@
             faqItem.classList.toggle('open');
         });
     });
+
+
+    document.querySelector('.hamburger').addEventListener('click', () => {
+    const navLinks = document.querySelector('.navbar-links');
+    navLinks.classList.toggle('show');
+});
 </script>
 <script> window.chtlConfig = { chatbotId: "5766754121" } </script>
 <script async data-id="5766754121" id="chatling-embed-script" type="text/javascript" src="https://chatling.ai/js/embed.js"></script>
